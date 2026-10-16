@@ -42,7 +42,3 @@ Hi, I'm **Akash Kumar**, an aspiring data specialist from India focused on **dat
 I'm building my skills through practical projects, including retail customer shopping behavior analysis, and sharing my progress as I learn.
 
 **Connect with me:** [GitHub](https://github.com/AkashQuants) · [LinkedIn](https://www.linkedin.com/in/akashchaudharry/) · [Email](mailto:akashchaudharry@outlook.com)
-
----
-
-*Project adapted from [Amlan Mohanty's Customer Trends Data Analysis project](https://github.com/amlanmohanty1/customer-trends-data-analysis-SQL-Python-PowerBI). README and visuals customized for AkashQuants.*
