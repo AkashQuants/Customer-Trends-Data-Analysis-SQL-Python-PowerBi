@@ -1,4 +1,3 @@
-# Customer-Trends-Data-Analysis-SQL-Python-PowerBi
 # 👨‍💻 Customer Shopping Behavior Analysis
 
 An end-to-end data analytics portfolio project exploring customer shopping behavior with **Python, SQL, and Power BI**. The workflow moves from preparing raw data to answering business questions, building an interactive dashboard, and communicating findings.
